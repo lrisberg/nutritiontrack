@@ -1,0 +1,88 @@
+[
+  {
+    "id": "iodine",
+    "name": "Iodine",
+    "dosage": "150 mcg/day",
+    "options": {
+      "laver (nori)": "2oz bag spread over a week",
+      "dulse": "2 oz bag spread over a month",
+      "alaria (wakame)": "2 oz bag spread over two months",
+      "bladderwrack": "1/2 teaspoon (1.4g) a day"
+    },
+    "researchCitations": [],
+    "videoCitation": "http://nutritionfacts.org/video/avoiding-iodine-deficiency-2/"
+  },
+  {
+    "id": "turmeric",
+    "name": "Turmeric",
+    "dosage": "1/2 tsp/day",
+    "researchCitations": [],
+    "videoCitation": ""
+  },
+  {
+    "id": "vitaminB12",
+    "name": "Vitamin B12",
+    "dosage": "At least 2500 mcg (µg) once each week, or at least 250 mcg daily",
+    "researchCitations": [],
+    "videoCitation": "",
+    "notes": "use only cyanocabalamin, not methylcabalamin"
+  },
+  {
+    "id": "omega3",
+    "name": "Omega 3 Fatty Acids",
+    "dosage": "250 mg daily of pollutant free (yeast- or algae-derived) long-chain omega-3's (EPA/DHA)",
+    "researchCitations": [],
+    "videoCitation": ""
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "dosage": "1/4 tsp 3x/day",
+    "researchCitations": [],
+    "videoCitation": "http://nutritionfacts.org/video/ginger-nausea-menstrual-cramps-irritable-bowel-syndrome/"
+  },
+  {
+    "id": "saffron",
+    "name": "Saffron",
+    "dosage": "30mg/day, or 15mg 2x/day for menstrual health",
+    "researchCitations": [],
+    "videoCitation": ""
+  },
+  {
+    "id": "vitaminD",
+    "name": "Vitamin D",
+    "dosage": "2000 UI/day",
+    "researchCitations": [],
+    "videoCitation": "",
+    "notes": "plant-derived D3 is optimal"
+  },
+  {
+    "id": "calcium",
+    "name": "Calcium",
+    "dosage": "At least 600 mg daily via calcium-rich plant foods—preferably low-oxalate dark green leafy vegetables, which includes all greens except spinach, chard, and beet greens (all very healthy foods, but not good calcium sources due to their oxalate content)",
+    "examples": "260 g raw collard greens",
+    "researchCitations": [],
+    "videoCitation": ""
+  },
+  {
+    "id": "selenium",
+    "name": "Selenium",
+    "dosage": "1 Brazil nut/day",
+    "researchCitations": [],
+    "videoCitation": ""
+  },
+  {
+    "id": "flaxseed",
+    "name": "Flaxseed",
+    "dosage": "2 tablespoons/day",
+    "researchCitations": [],
+    "videoCitation": ""
+  },
+  {
+    "id": "amla",
+    "name": "Amla",
+    "dosage": "1 tsp/day",
+    "researchCitations": [],
+    "videoCitation": ""
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "iodine",
+    "name": "Iodine",
+    "dosage": "150 mcg/day",
+    "options": {
+      "laver (nori)": "2oz bag spread over a week",
+      "dulse": "2 oz bag spread over a month",
+      "alaria (wakame)": "2 oz bag spread over two months",
+      "bladderwrack": "1/2 teaspoon (1.4g) a day"
+    },
+    "researchCitations": [],
+    "videoCitation": "http://nutritionfacts.org/video/avoiding-iodine-deficiency-2/"
+  }
+]
